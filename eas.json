@@ -3,14 +3,17 @@
     "development": {
       "developmentClient": true,
       "distribution": "internal",
-      "autoIncrement": true
+      "autoIncrement": true,
+      "workingDir": "Recipe-Apps"
     },
     "preview": {
       "distribution": "internal",
-      "autoIncrement": true
+      "autoIncrement": true,
+      "workingDir": "Recipe-Apps"
     },
     "production": {
-      "autoIncrement": true
+      "autoIncrement": true,
+      "workingDir": "Recipe-Apps"
     }
   }
 }
